@@ -1,0 +1,3 @@
+after installing ydata-profiling if pkg_resources not found error comes then do below in the virtual encvironment selected
+pip install --force-reinstall -U setuptools
+pip install --force-reinstall -U pip   or    python -m pip install --force-reinstall -U pip
